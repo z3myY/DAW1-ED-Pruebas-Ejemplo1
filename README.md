@@ -7,7 +7,7 @@
 [![Sonar](https://sonarcloud.io/api/project_badges/measure?project=miapp&metric=alert_status)](https://sonarcloud.io/organizations/jamj2000-github/projects)
 
 
-![JDK 8](https://img.shields.io/badge/JDK-8-blue.svg)
+![JDK 8](https://img.shields.io/badge/JDK-8-orange.svg)
 ![Gradle](https://img.shields.io/badge/gradle-2-blue.svg)
 ![JUnit 4](https://img.shields.io/badge/JUnit-4-blue.svg)
 

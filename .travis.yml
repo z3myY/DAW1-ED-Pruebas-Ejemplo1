@@ -18,7 +18,7 @@ jdk:
 script:
 # - ./gradlew build test jacocoTestReport
   - gradle test
-  - echo "Hola, soy José Miguel. Y me quiero morir"
+  - echo "Hola, soy José Miguel. Y estamos aprendiendo a usar travis"
   - ls build
   - gradle run
 ##  - ./gradlew sonarqube  #  -Dsonar.organization=jamj2000-github   -Dsonar.host.url=https://sonarcloud.io 
